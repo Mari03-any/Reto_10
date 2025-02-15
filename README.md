@@ -1,6 +1,6 @@
 # Reto_10
 ---
-**Elaborado por: Maria Fernanda Parra Osorio-1014980661**
+**Elaborado por: Maria Fernanda Parra Osorio-1014980661** <br>
 Los siguientes ejercicios están desarrollados y comentados en el notebook adjunto.<br>
 1.Desarrolle un programa que permita realizar la suma/resta de matrices. El programa debe validar las condiciones necesarias para ejecutar la operación.
 
